@@ -2,7 +2,7 @@
 
 No buscamos convencerte con aspiraciones; queremos hablar de ingeniero senior a ingeniero senior. Aquí documentamos nuestras decisiones de diseño explícitas, métricas de resiliencia y cómo enfrentamos los datos duros de producción en el día a día.
 
-![The Beauty of Boring Tech](./02The%20Beauty%20of%20Boring%20Tech.gif)
+<img src="./02The%20Beauty%20of%20Boring%20Tech.gif" alt="The Beauty of Boring Tech" width="400" />
 
 ## 🛠️ Filosofía "Boring Technology" y Justificación de nuestro Stack
 

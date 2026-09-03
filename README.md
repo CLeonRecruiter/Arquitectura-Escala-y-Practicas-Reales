@@ -35,4 +35,4 @@ Como ingenieros en Buk, asumimos un contrato no escrito: entender *qué, por qu�
 
 ---
 
-*Siguiente paso:* [👉 Explora nuestro Pilar 3: Conversión (Open Source y Carreras)](../03-conversion/README.md)
+*Siguiente paso:* [👉 Explora nuestro Pilar 3: Conversión (Open Source y Carreras)](https://github.com/CLeonRecruiter/Conversion-y-Comunidad-Buker/blob/main/README.md)

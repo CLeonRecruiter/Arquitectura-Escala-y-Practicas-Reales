@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./02The%20Beauty%20of%20Boring%20Tech.gif" alt="The Beauty of Boring Tech" width="550" />
+<img src="./02The%20Beauty%20of%20Boring%20Tech.gif" alt="The Beauty of Boring Tech" width="650" />
 
 </div>
 
